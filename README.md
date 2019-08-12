@@ -1,6 +1,6 @@
-# youtube link
+# Youtube Link
 
-## spring (java config)
+## SPRING (java config)
 
    - [spring javaConfig1](https://youtu.be/UmFlWTzJCg4)
    - [spring javaConfig2](https://youtu.be/Lj_pVpN51ec)
