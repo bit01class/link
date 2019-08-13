@@ -1,5 +1,8 @@
 # Youtube Link
 
+## SPRING (AJAX)
+   - [GET,POST,PUT,DELETE AJAX](https://youtu.be/G58fIlsPxqE)
+
 ## SPRING (java config)
 
    - [spring javaConfig1](https://youtu.be/UmFlWTzJCg4)
