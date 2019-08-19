@@ -6,7 +6,7 @@
 ## SPRING5 JAVACONFIGURE & AOP & RESTFUL & RESTTEMPLATE & SECURITY
 
    - [spring javaconfigure1 - Exchange servlet-context.xml to servletConfig.java](https://youtu.be/UmFlWTzJCg4)
-   - [spring javaconfigure2 - EExchange root-context.xml to rootConfig.java, apply Encoding filter](https://youtu.be/Lj_pVpN51ec)
+   - [spring javaconfigure2 - Exchange root-context.xml to rootConfig.java, apply Encoding filter](https://youtu.be/Lj_pVpN51ec)
    - [spring javaconfigure3 - apply Annotation mybatis](https://youtu.be/MnxPjsHPaHA)
    - [spring javaconfigure4 - print out ResponseEntity restful - get&post method test](https://youtu.be/Tro7cuIzbHM)
    - [spring javaconfigure5 - Annotation AOP](https://youtu.be/hrr-llaZmXc)
