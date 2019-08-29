@@ -1,0 +1,11 @@
+.gradle/
+.idea/
+.class
+/.metadata/
+/Servers/
+target/
+.setting/
+.classpath
+.project
+.springBeans
+
