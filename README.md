@@ -15,7 +15,7 @@
    - [spring security02](https://youtu.be/tPOydiaD0V0)
          
 ## SPRING Oauth2
-   - [github oauth2](https://youtu.be/bswWv5T1utk)
+   - [github oauth2](https://youtu.be/0dMA31QH6PM)
       ``` shell
       git clone https://github.com/bit01class/link.git
       cd oauth01
