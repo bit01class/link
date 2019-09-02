@@ -2,6 +2,24 @@
 
 ## SPRING (AJAX)
    - [GET,POST,PUT,DELETE AJAX](https://youtu.be/G58fIlsPxqE)
+   
+## SPRING WEBSOCKET
+   - [spring websocket](https://youtu.be/vWWqJY6jUj8)
+      ``` shell
+      git clone https://github.com/bit01class/link.git
+      cd socket01
+      ```
+      
+## SPRING WEBSOCKET
+   - [spring security01](https://youtu.be/bswWv5T1utk)
+   - [spring security02](https://youtu.be/tPOydiaD0V0)
+         
+## SPRING Oauth2
+   - [github oauth2](https://youtu.be/bswWv5T1utk)
+      ``` shell
+      git clone https://github.com/bit01class/link.git
+      cd oauth01
+      ```
 
 ## SPRING5 JAVACONFIGURE & AOP & RESTFUL & RESTTEMPLATE & SECURITY
 
