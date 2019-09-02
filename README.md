@@ -10,7 +10,7 @@
       cd socket01
       ```
       
-## SPRING WEBSOCKET
+## SPRING SECURITY
    - [spring security01](https://youtu.be/bswWv5T1utk)
    - [spring security02](https://youtu.be/tPOydiaD0V0)
          
