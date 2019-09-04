@@ -1,12 +1,12 @@
-# Youtube Link
+= Youtube Link
 
-## SPRING (AJAX)
+== SPRING (AJAX)
    - [GET,POST,PUT,DELETE AJAX](https://youtu.be/G58fIlsPxqE)
    
-## SPRING WEBSOCKET
+== SPRING WEBSOCKET
    - [spring websocket(1)](https://youtu.be/vWWqJY6jUj8)
    - [spring websocket(2)(httpSession value)](https://youtu.be/n4f-NQ_bsd8)
-      ``` shell
+      ```sh
       git clone https://github.com/bit01class/link.git
       cd socket01
       ```
@@ -17,7 +17,7 @@
          
 ## SPRING Oauth2
    - [github oauth2](https://youtu.be/0dMA31QH6PM)
-      ``` shell
+      ```sh
       git clone https://github.com/bit01class/link.git
       cd oauth01
       ```
