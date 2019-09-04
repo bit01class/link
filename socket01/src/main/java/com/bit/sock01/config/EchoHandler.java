@@ -25,11 +25,13 @@ public class EchoHandler extends TextWebSocketHandler{
 		cnt++;
 		map.put(session.getId(), session);
 		users.put(session.getId(), "user"+cnt);
+		System.out.println(session.getId()+">websocket>"+session.getAttributes());
 	}
 	
 	@Override
 	protected void handleTextMessage(WebSocketSession session, TextMessage message) throws Exception {
 		System.out.println(message.getPayload());
+		System.out.println(session.getAttributes());
 		// 클라이언트에 전달
 		TextMessage msg=null;
 		msg=new TextMessage(users.get(session.getId())
