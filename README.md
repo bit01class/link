@@ -4,7 +4,8 @@
    - [GET,POST,PUT,DELETE AJAX](https://youtu.be/G58fIlsPxqE)
    
 ## SPRING WEBSOCKET
-   - [spring websocket](https://youtu.be/vWWqJY6jUj8)
+   - [spring websocket(1)](https://youtu.be/vWWqJY6jUj8)
+   - [spring websocket(2)(httpSession value)](https://youtu.be/n4f-NQ_bsd8)
       ``` shell
       git clone https://github.com/bit01class/link.git
       cd socket01
