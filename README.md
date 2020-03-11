@@ -90,10 +90,10 @@
 ## Mobile 
 
 ### Cordova Geolocation Plugin
-    - [cordova geolocation](https://youtu.be/IEfzCgaW7yM)
+   - [cordova geolocation](https://youtu.be/IEfzCgaW7yM)
 
 ### Cordova Camera Plugin
-    - [cordova camera](https://youtu.be/n3fgw88056I)
+   - [cordova camera](https://youtu.be/n3fgw88056I)
 
 
 
