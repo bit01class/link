@@ -1,9 +1,26 @@
 # Youtube Link
 
-## SPRING (AJAX)
+---
+## SPRING
+
+### SPRING (AJAX)
    - [GET,POST,PUT,DELETE AJAX](https://youtu.be/G58fIlsPxqE)
-   
-## SPRING WEBSOCKET
+        
+### SPRING RestTemplate
+   - [Spring RestTemplate1](https://youtu.be/CBLQMwNWJoQ)
+   - [Spring RestTemplate2](https://youtu.be/qY-h1la1cmw)
+
+### SPRING Enabling Cross Origin Requests
+   - [Enabling Cross Origin Requests for a RESTful Web Service](https://youtu.be/RtO1_JS_xVo)
+
+### SPRING Creating Asynchronous Methods
+   - [Creating Asynchronous Methods](https://youtu.be/GMRm9BDSMDs)
+
+### SPRING Using Thymeleaf
+   - [Using Thymeleaf1](https://youtu.be/pybo5J6BVsw)
+   - [Using Thymeleaf2](https://youtu.be/CgPJZafJ-rA)
+
+### SPRING WEBSOCKET
    - [spring websocket(1)](https://youtu.be/vWWqJY6jUj8)
    - [spring websocket(2)(httpSession value)](https://youtu.be/n4f-NQ_bsd8)
       ```sh
@@ -11,18 +28,18 @@
       cd socket01
       ```
       
-## SPRING SECURITY
+### SPRING SECURITY
    - [spring security01](https://youtu.be/bswWv5T1utk)
    - [spring security02](https://youtu.be/tPOydiaD0V0)
          
-## SPRING Oauth2
+### SPRING Oauth2
    - [github oauth2](https://youtu.be/0dMA31QH6PM)
       ```sh
       git clone https://github.com/bit01class/link.git
       cd oauth01
       ```
 
-## SPRING5 JAVACONFIGURE & AOP & RESTFUL & RESTTEMPLATE & SECURITY
+### SPRING5 JAVACONFIGURE & AOP & RESTFUL & RESTTEMPLATE & SECURITY
 
    - [spring javaconfigure1 - Exchange servlet-context.xml to servletConfig.java](https://youtu.be/UmFlWTzJCg4)
    - [spring javaconfigure2 - Exchange root-context.xml to rootConfig.java, apply Encoding filter](https://youtu.be/Lj_pVpN51ec)
@@ -69,9 +86,14 @@
 
    - [spring javaConfig](https://youtu.be/nX1h2B8XOmo)
 
+---
+## Mobile 
 
-         
+### Cordova Geolocation Plugin
+    - [cordova geolocation](https://youtu.be/IEfzCgaW7yM)
 
-## SPRING Creating Asynchronous Methods
+### Cordova Camera Plugin
+    - [cordova camera](https://youtu.be/n3fgw88056I)
 
-   - [Creating Asynchronous Methods](https://youtu.be/GMRm9BDSMDs)
+
+
